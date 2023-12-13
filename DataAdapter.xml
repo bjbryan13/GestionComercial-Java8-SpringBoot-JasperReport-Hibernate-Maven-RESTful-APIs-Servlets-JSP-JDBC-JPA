@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl"><name>pedidos</name><driver>com.mysql.jdbc.Driver</driver><username>root</username><password></password><savePassword>true</savePassword><url>jdbc:mysql://localhost/pedidos</url><database></database><serverAddress></serverAddress><classpath>C:\Users\bryan\Downloads\mysql-connector-java-8.0.22\mysql-connector-java-8.0.22\mysql-connector-java-8.0.22.jar</classpath></jdbcDataAdapter>
